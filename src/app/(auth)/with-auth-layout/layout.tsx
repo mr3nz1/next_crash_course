@@ -6,7 +6,7 @@ export default function AuthLayout({
   return (
     <>
       {children}
-      <h2>Features products</h2>
+      <h2>Features productas</h2>
     </>
   );
 }
