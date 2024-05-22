@@ -19,7 +19,6 @@ const Configuration = {
      */
     rules: {
         'type-enum': [2, 'always', ['ft', "ch", "bg"]],
-        "body-case": "lower-case"
     },
     /*
      * Array of functions that return true if commitlint should ignore the given message.
