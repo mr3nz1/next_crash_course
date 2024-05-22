@@ -11,8 +11,6 @@
     "release": "release-it"
   },
   "dependencies": {
-    "@commitlint/cli": "^19.3.0",
-    "@commitlint/config-conventional": "^19.2.2",
     "@release-it/conventional-changelog": "^8.0.1",
     "next": "14.2.3",
     "react": "^18",
@@ -20,6 +18,8 @@
     "release-it": "^17.2.1"
   },
   "devDependencies": {
+    "@commitlint/cli": "^19.3.0",
+    "@commitlint/config-conventional": "^19.2.2",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
@@ -45,8 +45,8 @@
         "infile": "CHANGELOG.md",
         "preset": {
           "name": "conventionalcommits",
-            "types": [
-              {
+          "types": [
+            {
               "type": "ft",
               "section": "Features"
             },
