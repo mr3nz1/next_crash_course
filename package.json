@@ -8,7 +8,13 @@
     "start": "next start",
     "lint": "next lint",
     "prepare": "husky",
-    "release": "release-it"
+    "release": "release-it",
+    "format": "npx prettier --write ."
+  },
+  "lint-staged": {
+    "*.{js,jsx,ts,tsx,css,md,json}": [
+      "prettier --write"
+    ]
   },
   "dependencies": {
     "@release-it/conventional-changelog": "^8.0.1",
