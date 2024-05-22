@@ -13,7 +13,6 @@
         "fix",
         "perf",
         "refactor",
-        "revert",
         "style"
       ]
     ]
