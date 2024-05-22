@@ -1,3 +1,14 @@
+## [0.2.0](https://github.com/mr3nz1/next_crash_course/compare/0.1.2...0.2.0) (2024-05-22)
+
+### Features
+
+- Add new commit to double check ([0bdbe50](https://github.com/mr3nz1/next_crash_course/commit/0bdbe50bab480aa4e9449c993ca004cbb4f0e3b8))
+- **linters:** Add radio button to the component ([96fd7ec](https://github.com/mr3nz1/next_crash_course/commit/96fd7ecbb7d11a0d1b586be7f77f344ca5132737))
+
+### Bug fixes
+
+- Fix internal project bug ([49872c9](https://github.com/mr3nz1/next_crash_course/commit/49872c97f2f2f8555390a228a11618305138953c))
+
 ## [0.1.2](https://github.com/mr3nz1/next_crash_course/compare/0.1.1...0.1.2) (2024-05-20)
 
 ### Features
