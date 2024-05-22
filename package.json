@@ -45,8 +45,8 @@
         "infile": "CHANGELOG.md",
         "preset": {
           "name": "conventionalcommits",
-          "types": [
-            {
+            "types": [
+              {
               "type": "ft",
               "section": "Features"
             },
