@@ -17,7 +17,5 @@ module.exports = {
 
     // Add a new 'subject-max-length' rule
     'subject-max-length': [2, 'always', 50],
-
-    'type(scope)': 'subject',
   },
 };
