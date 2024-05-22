@@ -54,11 +54,11 @@
           "name": "conventionalcommits",
           "types": [
             {
-              "type": "ft",
+              "type": "feat",
               "section": "Features"
             },
             {
-              "type": "bg",
+              "type": "fix",
               "section": "Bug fixes"
             }
           ]
