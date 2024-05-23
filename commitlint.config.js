@@ -12,7 +12,8 @@ module.exports = {
     'subject-case': [
       2,
       'always',
-      ['sentence-case', 'start-case', 'pascal-case', 'upper-case'],
+      //   ['sentence-case', 'start-case', 'pascal-case', 'upper-case'],
+      ['sentence-case', 'lower-case'],
     ],
 
     // Add a new 'subject-max-length' rule
