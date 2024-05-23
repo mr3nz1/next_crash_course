@@ -1,3 +1,9 @@
+## [0.2.1](https://github.com/mr3nz1/next_crash_course/compare/0.2.0...0.2.1) (2024-05-23)
+
+### Bug fixes
+
+- bug fixed in advance ([7f69197](https://github.com/mr3nz1/next_crash_course/commit/7f69197d489567df210a29e119316f4be84a9300))
+
 ## [0.2.0](https://github.com/mr3nz1/next_crash_course/compare/0.1.2...0.2.0) (2024-05-22)
 
 ### Features
